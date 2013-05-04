@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
-    <property name="acs-oauth-secret-production" type="string">a0b0WXFLE1QYZFy3bcZPbbbanOp06ROc</property>
-    <property name="acs-oauth-key-production" type="string">TY2SZuQcMQ36J7Si9J1W1xSGDV8BhjYm</property>
-    <property name="acs-api-key-production" type="string">dWXXUqNJnSWaOLBLmhhwgQftpAmNTnLD</property>
-    <property name="acs-oauth-secret-development" type="string">kLhxYbsBe3rnxjOj79cZRKkdaxBgpkCk</property>
-    <property name="acs-oauth-key-development" type="string">4OM4NWQCoN4Aw2p6SPtiRPEZV9TN6fSV</property>
-    <property name="acs-api-key-development" type="string">Z9NKATpfaUonCz4TUpshbaO1AzAEbsb3</property>
-    <id>com.where.app</id>
+<id>com.where.app</id>
     <name>Where</name>
     <version>1.0</version>
     <publisher>aleard</publisher>
